@@ -1,7 +1,8 @@
 module.exports = {
   apps: [
     {
-     script: "npx serve dist -s"
+     script: "./src/index.js"
+     //script: "npx serve dist -s"
     }
  ]
 };
